@@ -1,0 +1,14 @@
+C:\Users\normc\RiderProjects\Saod6Lab\Saod6Lab\bin\Debug\net6.0\Saod6Lab.exe
+C:\Users\normc\RiderProjects\Saod6Lab\Saod6Lab\bin\Debug\net6.0\Saod6Lab.deps.json
+C:\Users\normc\RiderProjects\Saod6Lab\Saod6Lab\bin\Debug\net6.0\Saod6Lab.runtimeconfig.json
+C:\Users\normc\RiderProjects\Saod6Lab\Saod6Lab\bin\Debug\net6.0\Saod6Lab.dll
+C:\Users\normc\RiderProjects\Saod6Lab\Saod6Lab\bin\Debug\net6.0\Saod6Lab.pdb
+C:\Users\normc\RiderProjects\Saod6Lab\Saod6Lab\obj\Debug\net6.0\Saod6Lab.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\normc\RiderProjects\Saod6Lab\Saod6Lab\obj\Debug\net6.0\Saod6Lab.AssemblyInfoInputs.cache
+C:\Users\normc\RiderProjects\Saod6Lab\Saod6Lab\obj\Debug\net6.0\Saod6Lab.AssemblyInfo.cs
+C:\Users\normc\RiderProjects\Saod6Lab\Saod6Lab\obj\Debug\net6.0\Saod6Lab.csproj.CoreCompileInputs.cache
+C:\Users\normc\RiderProjects\Saod6Lab\Saod6Lab\obj\Debug\net6.0\Saod6Lab.dll
+C:\Users\normc\RiderProjects\Saod6Lab\Saod6Lab\obj\Debug\net6.0\refint\Saod6Lab.dll
+C:\Users\normc\RiderProjects\Saod6Lab\Saod6Lab\obj\Debug\net6.0\Saod6Lab.pdb
+C:\Users\normc\RiderProjects\Saod6Lab\Saod6Lab\obj\Debug\net6.0\Saod6Lab.genruntimeconfig.cache
+C:\Users\normc\RiderProjects\Saod6Lab\Saod6Lab\obj\Debug\net6.0\ref\Saod6Lab.dll
